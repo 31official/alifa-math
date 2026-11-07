@@ -1,4 +1,4 @@
-# 🚀 ZuperVerse 3D - Game Matematika SD
+# Alifia Math - Game Matematika SD
 
 Platform game 3D pembelajaran Matematika Sekolah Dasar (Kelas 1–6 SD) berbasis Three.js & Socket.io. Game ini dapat dimainkan secara **Online Multiplayer** (dengan Kode Kelas dari Guru) maupun **Offline/Single-Player**.
 
